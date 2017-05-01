@@ -1,6 +1,8 @@
 # Action Dino
 This Python program controls a motorized toy dinosaur.
 
+![action_dino](https://cloud.githubusercontent.com/assets/13591438/25585234/33cf2606-2e5f-11e7-8dc2-111e3bd3364a.JPG)
+
 ## Requirements:
   Raspberry Pi (including power supply, keyboard, mouse, speaker, and monitor).
   
