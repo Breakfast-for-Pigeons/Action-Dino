@@ -17,6 +17,6 @@ This is a program written in Python to control a motorized toy dinosaur.
   AA batteries (4)
 
 ## Optional
-  Frtizing application
+  Frtizing application:
   http://fritzing.org/
 
