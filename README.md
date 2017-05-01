@@ -20,3 +20,8 @@ This Python program controls a motorized toy dinosaur.
   Frtizing application:
   http://fritzing.org/
 
+____________________________________
+
+Connect the Rasberry Pi, dinosaur, and electronics as shown in the image below. If you installed the Fritzing application, I included my action_dino.fzz file. Feel free to use it.
+
+![action_dino](https://cloud.githubusercontent.com/assets/13591438/25573221/d57adf1a-2e08-11e7-93bb-2e0db8761471.png)
