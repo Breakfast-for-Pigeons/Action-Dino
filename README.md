@@ -30,6 +30,6 @@ Connect the Rasberry Pi, dinosaur motor, and electronics as shown in the image b
 
 Download the Zip file or clone this project with git.
 
-Type "sudo ./action_dino.py
+Type "sudo ./action_dino.py"
 
 ![action_dino_2](https://cloud.githubusercontent.com/assets/13591438/25606936/ba681d9c-2ed9-11e7-9769-aa47eb59b317.png)
