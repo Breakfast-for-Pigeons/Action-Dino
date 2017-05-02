@@ -27,3 +27,9 @@ ____________________________________
 Connect the Rasberry Pi, dinosaur motor, and electronics as shown in the image below. If you installed the Fritzing application, I included my action_dino.fzz file. Feel free to use it. NOTE: The image shows only 2 AA batteries. I actually used 4 AA batteries for this project.
 
 ![action_dino](https://cloud.githubusercontent.com/assets/13591438/25573221/d57adf1a-2e08-11e7-93bb-2e0db8761471.png)
+
+Download the Zip file or clone this project with git.
+
+Type "sudo ./action_dino.py
+
+![action_dino_2](https://cloud.githubusercontent.com/assets/13591438/25606936/ba681d9c-2ed9-11e7-9769-aa47eb59b317.png)
